@@ -1,2 +1,2 @@
 # megadea_web
- Megadea.com website
+ Light HTML5 and CSS informative website with video animated banner
